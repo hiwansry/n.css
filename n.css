@@ -1,0 +1,7 @@
+.headers {
+    position: fixed;
+    top: 0;
+    height: 80px;
+    max-width: 1400px;
+    width: 100%;
+    background: green !important;}
